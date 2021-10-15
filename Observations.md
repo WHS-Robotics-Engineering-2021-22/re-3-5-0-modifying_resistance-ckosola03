@@ -1,3 +1,4 @@
+![IMG_20211015_103533](https://user-images.githubusercontent.com/71716805/137522589-aba96973-294f-4015-bc34-1db1ec76e4b9.jpg)
  How would you characterize the relationship between resistance and current? Be specific by using the current levels in your response. You may attain these using the app and you may also do this by measuring current with your multimeter. What would be the reasons for using resistors in series or resistors in parallel?
 
 The more resistance there is in sequence restict the current more than when a current only goes thorugh one the current is increased. For example in the parrallel resister circuit the current is 6.25mA while the parralell one is 25.79mA. The higher the resistance in ohms the less the current is aswell. For example on the simple circuit the 470 ohm resister has a current of 10.638mA while the 330 ohm resister has a current of 15.152. 
